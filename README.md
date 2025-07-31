@@ -1,4 +1,4 @@
-# Wuchang: Fallen Feathers - Modding Hub
+# Wuchang: Fallen Feathers - Modding Guide
 
 ![Wuchang Wiki Interface](https://github.com/user-attachments/assets/04a68fc4-c5d6-48ec-93df-8af598ee9d12)
 
